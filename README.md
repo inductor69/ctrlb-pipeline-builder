@@ -16,3 +16,7 @@ To run the application locally, follow these steps:
    ```sh
    yarn dev
    ```
+
+## Live on
+
+https://ctrlb-pipeline-builder-beta.vercel.app/
